@@ -28,4 +28,4 @@ The trigger (`on:`) is filtered to `push` events on `main` that touch `index.htm
 
 ## Project reference
 
-[roadmap.sh — GitHub Pages Deployment](https://roadmap.sh/projects/github-pages-deployment)
+[roadmap.sh — GitHub Actions Deployment Workflow](https://roadmap.sh/projects/github-actions-deployment-workflow)
